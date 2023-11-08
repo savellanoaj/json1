@@ -1,0 +1,12 @@
+{
+    "name": "AJ Savellano",
+    "age": 21,
+    "city": "Seattle, WA",
+    "interests": [
+        "Gaming is great",
+        "Fantasy Football King",
+        "Anime Enthusiast",
+        "I also like K-Pop"
+    ],
+    "is_student": true
+}
